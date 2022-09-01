@@ -9,3 +9,4 @@ labels:
   - Software Engineering
 ---
 <p> the<br>essay. make sure to put https:// when linking prof portfolio in laulima. </p>
+<p>you dont have to deal with pointers like in C, which was tricky.  Objects in javascript are the closest to pointers.</p>
