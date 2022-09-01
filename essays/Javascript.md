@@ -8,4 +8,4 @@ published: true
 labels:
   - Software Engineering
 ---
-<p> the<br>essay </p>
+<p> the<br>essay. make sure to put https:// when linking prof portfolio in laulima. </p>
