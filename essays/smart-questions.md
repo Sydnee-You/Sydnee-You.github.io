@@ -15,9 +15,9 @@ labels:
   <h2> "There is no such thing as a stupid question" They Said...</h2>
 <p>
 Growing up, I've often heard people, especially teachers, encourage others to ask questions if they are confused.  I've heard the notion that "there is no such thing as a dumb question" tossed around quite often.  However, is that *really* true or are people who use that phrase (especially teachers) merely sugarcoating reality?  If StackOverflow has taught me anything, it is definitely the latter. </p>
-<br>
-  <p> Many newer users tend to make the mistake of asking too general of a question ("How do I do <insert task that may take hundreds of lines of code>"), not explaining the question in enough detail (the user does not explain what he or she attempted to solve the problem before asking the question or what erros showed up in the code), asking the web to solve an entire homework problem, and generally asking something that may have already been asked because she or he did not spend the time searching the question online or reading a textbook first.  This all leads to quite a few disgruntled veterans who will tell them off for asking a bad question.  While these people may come across as rude at first, they may have a good point.  All these common mistakes are often the result of the user being too lazy to do their own research or solve things on their own first.  Letting these questions slide could encourage laziness and encourage users to feel as if they are entitled to having any and all of their questions answered.  The truth is, many more experienced users often have busy and demanding schedules, and they take time out of their day to answer questions without expecting anything in return.  It is simple courtesy to ask a precise question with a sufficient amount of detail.
-  </p>
+
+   Many newer users tend to make the mistake of asking too general of a question ("How do I do <insert task that may take hundreds of lines of code>"), not explaining the question in enough detail (the user does not explain what he or she attempted to solve the problem before asking the question or what erros showed up in the code), asking the web to solve an entire homework problem, and generally asking something that may have already been asked because she or he did not spend the time searching the question online or reading a textbook first.  This all leads to quite a few disgruntled veterans who will tell them off for asking a bad question.  While these people may come across as rude at first, they may have a good point.  All these common mistakes are often the result of the user being too lazy to do their own research or solve things on their own first.  Letting these questions slide could encourage laziness and encourage users to feel as if they are entitled to having any and all of their questions answered.  The truth is, many more experienced users often have busy and demanding schedules, and they take time out of their day to answer questions without expecting anything in return.  It is simple courtesy to ask a precise question with a sufficient amount of detail.
+  
   
   <br>
   <h2>User used Bad Question!  It's not Very Effective...</h2>
@@ -41,7 +41,7 @@ please try this code on their own and then tell me what they mean and what to do
  
 <a href='https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array'>Great question</a> asked by GManNickG on StackOverflow
 
-  <p>What makes this question so good?</p>
+  <p>As one can immediately tell by the overwhemingly high number of upvotes, this question received plenty of deserved attention, and rightfully so.  The original question was, "Why is a processing array faster than </p>
 
 
  
