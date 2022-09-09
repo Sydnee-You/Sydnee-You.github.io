@@ -25,7 +25,7 @@ Growing up, I've often heard people, especially teachers, encourage others to as
   ## The foolproof way to get ignored.
 
 While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
+<a src='https://meta.stackoverflow.com/questions/400643/what-should-i-do-if-i-am-post-banned-but-i-can-not-modify-any-of-my-bad-question'>Here</a>
 ```
 So. I am trying to move my character. I wrote it just like in a tutorial. It didn't work so I tried to fix it but just 
 ruined other things. Can someone please tell me what the problem is? It would be also nice if someone would tell me how 
