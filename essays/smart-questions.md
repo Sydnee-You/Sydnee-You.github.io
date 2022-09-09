@@ -34,14 +34,12 @@ to resize the objects, buttons, etc when I maximize my Pygame Window? I don't kn
 please try this code on their own and then tell me what they mean and what to do? Here is the code:
  ```
 
-  <h2> What’s a smart question?</h2>
+  <h2>This StackOverflow Question is <i>Overflowing</i> with Great Information and A Great Question</h2>
 
-
-  
  
 <a href='https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array'>Great question</a> asked by GManNickG on StackOverflow
 
-
+  <p>What makes this question so good?</p>
 
 ```
 A: datetime and the datetime.timedelta classes are your friend.
