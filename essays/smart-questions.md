@@ -28,8 +28,9 @@ While there are decent questions that benefit everyone, there are those one can 
 
 ```
 So. I am trying to move my character. I wrote it just like in a tutorial. It didn't work so I tried to fix it but just 
-ruined other things. Can someone please tell me what the problem is? It would be also nice if someone would tell me how to resize the objects, buttons, etc when I maximize my Pygame Window? 
-I don't know what the errors mean. Can someone please try this code on their own and then tell me what they mean and what to do? Here is the code:
+ruined other things. Can someone please tell me what the problem is? It would be also nice if someone would tell me how 
+to resize the objects, buttons, etc when I maximize my Pygame Window? I don't know what the errors mean. Can someone 
+please try this code on their own and then tell me what they mean and what to do? Here is the code:
 ```
 
 A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
