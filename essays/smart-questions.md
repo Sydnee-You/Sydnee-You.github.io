@@ -33,7 +33,7 @@ ruined other things. Can someone please tell me what the problem is? It would be
 to resize the objects, buttons, etc when I maximize my Pygame Window? I don't know what the errors mean. Can someone 
 please try this code on their own and then tell me what they mean and what to do? Here is the code:</p> 
 <br>
-<p></p>
+<p>This question is not among the bottom-of-the-barrel worst questions ever asked, but there are definitely some things that can be improved in regards to this question. As the responder pointed out, Hydro simply did not provide enough information regarding the question.  Hydro didn't specify which tutorial they were referring to, what they have tried so far to fix the issue, and what specifically did not work.  Hydro also claims they do not understand the erros but does not specify what erros are there.  People are less willing to answer such a question with so little detail such as this. </p>
 <br>
 <br>
   <h2>This StackOverflow Question is <i>Overflowing</i> with Great Information and A Great Question</h2>
