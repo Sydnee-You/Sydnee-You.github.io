@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Smart Questions Require Effort!"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-08
 published: true
@@ -48,6 +48,6 @@ please try this code on their own and then tell me what they mean and what to do
 
   <h2> Conclusion</h2>
   
-  <p>h</p>
+  <p> While it may seem more welcoming to tell others, "there is no such thing as a bad question", the reality is that sometimes certain questions we ask really are not so great after all.  When we ask questions online, it is important to not only ask a specific question but to be considerate of others' schedules.  Show that you've done your research and your trial and errors.  Give others the details even if it may be a pain to write out.  While it may be tempting to ask a lazy question, at the end of the day, lazy bad questions help no one and only serve to waste others' time.  While smart questions may take much more time to come up with and to ask, they are worth asking and will earn you the respect of your fellow coders and benefit the community you are a part of.</p>
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+
