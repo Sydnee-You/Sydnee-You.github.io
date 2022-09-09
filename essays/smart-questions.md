@@ -37,7 +37,7 @@ please try this code on their own and then tell me what they mean and what to do
 
 
   
-  <a href='https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array>An example of a good question</a> asked by GManNickG
+ 
 <a href='https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array'>Great question</a> asked by GManNickG on StackOverflow
 
 
