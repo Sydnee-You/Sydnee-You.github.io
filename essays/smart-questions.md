@@ -41,12 +41,13 @@ please try this code on their own and then tell me what they mean and what to do
  
 <a href='https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array'>Great question</a> asked by GManNickG on StackOverflow
 
-  <p>As one can immediately tell by the overwhemingly high number of upvotes, this question received plenty of deserved attention, and rightfully so.  The original question was, "Why is a processing array faster than </p>
+  <p>As one can immediately tell by the overwhemingly high number of upvotes, this question received plenty of deserved attention, and rightfully so.  The original question was, "Why is processing a sorted array faster than processing an unsorted array?"  The user displayed their code (that had comments to make the code even easier to read) and explained how fast it ran depending on whether or not certain things were included in the code or whether or not the code was sorted.  The user then explained they tried it with Java and once again showcased a sufficient amount of code related to the problem.  Then the user explained their thought process regarding the problem as well as additional follow-up questions they had.  This was a great question because of the sufficient amount of detail the user provided in regards to the question: they had a professional and specific title that immediately addressed their main question, they showed their code, explained what the code did, and asked follow-up questions they had in regards to the original question.  </p>
 
-
- 
+<br>
 
 
   <h2> Conclusion</h2>
+  
+  <p>h</p>
 
 When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
