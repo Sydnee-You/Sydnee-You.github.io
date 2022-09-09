@@ -27,8 +27,8 @@ Growing up, I've often heard people, especially teachers, encourage others to as
 While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
 
 ```
-So. I am trying to move my character. I wrote it just like in a tutorial. It didn't work so I tried to fix it but just ruined other things. 
-Can someone please tell me what the problem is? It would be also nice if someone would tell me how to resize the objects, buttons, etc when I maximize my Pygame Window? 
+So. I am trying to move my character. I wrote it just like in a tutorial. It didn't work so I tried to fix it but just 
+ruined other things. Can someone please tell me what the problem is? It would be also nice if someone would tell me how to resize the objects, buttons, etc when I maximize my Pygame Window? 
 I don't know what the errors mean. Can someone please try this code on their own and then tell me what they mean and what to do? Here is the code:
 ```
 
