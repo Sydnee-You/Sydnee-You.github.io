@@ -17,14 +17,14 @@ labels:
   insert text here
   </p>
   <h2> "There is no such thing as a stupid question" They Said...</h2>
-
+<p>
 Growing up, I've often heard people, especially teachers, encourage others to ask questions if they are confused.  I've heard the notion that "there is no such thing as a dumb question" tossed around quite often.  However, is that *really* true or are people who use that phrase (especially teachers) merely sugarcoating reality?  If StackOverflow has taught me anything, it is definitely the latter.  
+  </p>
   
   
-  
-  ## The foolproof way to get ignored.
+  <h2>User used Bad Question!  It's not Very Effective...</h2>
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+
 <a href='https://meta.stackoverflow.com/questions/400643/what-should-i-do-if-i-am-post-banned-but-i-can-not-modify-any-of-my-bad-question'>Not-so-good-question</a> asked by Hydro on StackOverflow
 <blockquote>
 So. I am trying to move my character. I wrote it just like in a tutorial. It didn't work so I tried to fix it but just 
@@ -33,14 +33,12 @@ to resize the objects, buttons, etc when I maximize my Pygame Window? I don't kn
 please try this code on their own and then tell me what they mean and what to do? Here is the code:
   </blockquote>
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## What’s a smart question?
+  <h2> What’s a smart question?</h2>
 
 
   
   <a href='https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array>An example of a good question</a> asked by GManNickG
-
+<a href='https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array'>Great question</a> asked by GManNickG on StackOverflow
 
 
 
