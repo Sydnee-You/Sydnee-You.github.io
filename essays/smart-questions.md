@@ -11,15 +11,32 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 <p>
   insert text here
 <a href='https://stackoverflow.com/questions/62046304/i-am-trying-to-move-my-character-but-instead-of-that-the-player-wont-move'>testing<a>
   insert text here
   </p>
-## "There is no such thing as a stupid question" They Said...
+  <h2> "There is no such thing as a stupid question" They Said...</h2>
 
 Growing up, I've often heard people, especially teachers, encourage others to ask questions if they are confused.  I've heard the notion that "there is no such thing as a dumb question" tossed around quite often.  However, is that *really* true or are people who use that phrase (especially teachers) merely sugarcoating reality?  If StackOverflow has taught me anything, it is definitely the latter.  
+  
+  
+  ## The foolproof way to get ignored.
+
+While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
+
+```
+Q: Facebook Desktop Notifier
+
+I am a beginner programmer that have never used anything other than what's included in a language.
+
+I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
+How should go about doing this? Thanks in advance.
+
+edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
+```
+
+A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
 
 ## What’s a smart question?
 
@@ -81,22 +98,7 @@ Like this:
  
 The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
 
-## The foolproof way to get ignored.
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
 
 ## Conclusion
 
