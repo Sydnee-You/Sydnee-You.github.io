@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Smart Questions, Good Answers"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2022-09-08
 published: true
 labels:
   - Questions
@@ -17,9 +17,9 @@ labels:
 <a href='https://stackoverflow.com/questions/62046304/i-am-trying-to-move-my-character-but-instead-of-that-the-player-wont-move'>testing<a>
   insert text here
   </p>
-## Is there such thing as a stupid question?
+## "There is no such thing as a stupid question" They Said...
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+Growing up, I've often heard people, especially teachers, encourage others to ask questions if they are confused.  I've heard the notion that "there is no such thing as a dumb question" tossed around quite often.  However, is that *really* true or are people who use that phrase (especially teachers) merely sugarcoating reality?  If StackOverflow has taught me anything, it is definitely the latter.  
 
 ## What’s a smart question?
 
