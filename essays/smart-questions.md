@@ -26,13 +26,15 @@ Growing up, I've often heard people, especially teachers, encourage others to as
 
 
 <a href='https://meta.stackoverflow.com/questions/400643/what-should-i-do-if-i-am-post-banned-but-i-can-not-modify-any-of-my-bad-question'>Not-so-good-question</a> asked by Hydro on StackOverflow
-
-```cpp
+  <p>As with many not-so-great questions, the original question had already been deleted, so this response resposting Hydro's question is the closest I could find to the orignal question.  Unfortunately, the repost did not include the code Hydro used.</p>
+<br>
+  <br>
+  <b>Hydro's Question</b>
 So. I am trying to move my character. I wrote it just like in a tutorial. It didn't work so I tried to fix it but just 
 ruined other things. Can someone please tell me what the problem is? It would be also nice if someone would tell me how 
 to resize the objects, buttons, etc when I maximize my Pygame Window? I don't know what the errors mean. Can someone 
 please try this code on their own and then tell me what they mean and what to do? Here is the code:
- ```
+ 
 
   <h2>This StackOverflow Question is <i>Overflowing</i> with Great Information and A Great Question</h2>
 
