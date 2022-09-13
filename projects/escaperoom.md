@@ -36,6 +36,4 @@ byte ADCRead(byte ch)
 ```
 
 You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
-what
-Test [Escape Room](file:///C:/Users/sydin/Downloads/ICSpark/icspark-project2-escape-room/index.html). ok
-k
+
