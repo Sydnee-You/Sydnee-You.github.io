@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/cyberworld_pic1_square.png
 title: "Reality Bytes: CyberWorld"
 date: 2022-05-25
 published: true
