@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/SPD_logo_square.png
 title: "SPD in H4D"
 date: 2022
 published: true
