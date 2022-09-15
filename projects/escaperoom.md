@@ -23,15 +23,19 @@ For this project, I was the lead programmer who was responsible for programming 
 
 Here is some code that illustrates how we read values from the line sensors:
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+```css
+#container{
+  width:calc(100vw);
+  height:calc(100vh);
+  background-image: url("../assets/future.gif");
+}
+
+#text{
+  background-color:white;
+}
+
+#home{
+  background-color:white;
 }
 ```
 
