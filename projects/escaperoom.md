@@ -40,5 +40,5 @@ Of all the computer science-related projects I have worked on, the "escape room"
 
 This project, with it's fun little story and easy-to-follow instructions, has inspired me to try to come up with my own creative and fun mini projects in the future that I can later add to a project portfolio.  Even though this was a relatively easy project, this was actually the first instance in which I learned about how to use file paths, so successfully making a solution for others to reference for a project with a concept that was new to me felt very rewarding.
 
-Here is the link to the original project instructions: [escape-room](https://manoa.hawaii.edu/news/article.php?aId=2857](https://github.com/junior-devleague/escape-room).
+Here is the link to the original project instructions: [escape-room](https://github.com/junior-devleague/escape-room).
 
