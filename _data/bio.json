@@ -67,12 +67,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Secretary, mentor",
+      "startDate": "2019-09-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Helped mentor middle and high school students in web development.  Aided with ICSpark secretarial duties.",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
