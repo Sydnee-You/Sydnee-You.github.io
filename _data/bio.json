@@ -1,40 +1,43 @@
 {
   "basics": {
-    "name": "Sydnee You",
+    "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://github.com/Sydnee-You.png",
-    "email": "sydneey@hawaii.edu",
-    "phone": "808-445-4483",
-    "website": "https://Sydnee-You.github.io",
+    "picture": "https://github.com/kambergjohnson.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96824", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "Sydnee-You", "url": "http://github.com/Sydnee-You" },
-      { "network": "linkedin", "username": "Sydnee You", "url": "https://www.linkedin.com/in/sydnee-you-9897ba239/" },
-      
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "game development" },
-    { "name": "front end web development" },
-    {"name": "world building"}
+    { "name": "Interactive media" },
+    { "name": "Neuromorphic Computing" },
+    { "name": "Quantum Computing" },
+    { "name": "Robotics" },
+    { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "HTML", "CSS", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Ubuntu", "GitHub"]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2019-08-23",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,37 +45,38 @@
   ],
   "work": [
     {
-      "company": "City and County of Honolulu",
-      "position": "Recreation Assistant II",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
       "website": "",
-      "startDate": "2022-05-25",
-      "endDate": "2022-07-29",
-      "summary": "Work with a child with disabilities and help the child participate in summer fun activities",
+      "startDate": "2015-08-01",
+      "endDate": "Present",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Help the child be an engaging member in the summer fun they are participating in",
-        "Be a role model to the child and to the other children in the summer fun group"
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "CVS/Longs Drugs Hawaii Kai",
-      "position": "Cashier",
-      "website": ""
-      "startDate": "2021-06",
-      "endDate": "2021-09",
+      "company": "UH Information Technology Services",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
       "summary": "",
-      "highlights": ""
-        
-      
+      "highlights": [
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "ICSpark",
-      "website": "https://icspark.github.io/",
-      "position": "Secretary, mentor",
-      "startDate": "2019-09-01",
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Helped mentor middle and high school students in web development.  Aided with ICSpark secretarial duties.",
+      "summary": "Lead developer for weather sensing project",
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
@@ -81,20 +85,23 @@
     {
       "organization": "",
       "website": "",
-      "position": ""
+      "position": "Professional organization involvement",
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": 
-        
+      "highlights": [
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Rotary Certificate of Appreciation",
-      "date": "2019",
-      "awarder": "Hawaii Rotary Youth Foundation Scholarship",
-      "summary": ""
+      "title": "B+ Scholarship",
+      "date": "2013-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
       "title": "First place",
