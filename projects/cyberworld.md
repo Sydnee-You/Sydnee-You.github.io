@@ -38,4 +38,4 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more about the Hackathon at [Reality Bytes Intro. Video](https://www.youtube.com/watch?v=z-tYzpRxfQQ).
+You can learn more about the Hackathon at [Reality Bytes Introduction Video](https://www.youtube.com/watch?v=z-tYzpRxfQQ) and the Reality Bytes Hackathon information page on the [UNUM](https://unum.nsin.us/reality-bytes) website (note: you may need an account on UNUM to view it).
