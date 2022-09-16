@@ -36,4 +36,4 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+Our project was showcased on the [UNUM](https://unum.nsin.us/uofh/customObject/viewCustomObject/5aaeffbce6a8) website (you have to have an account to view it).
