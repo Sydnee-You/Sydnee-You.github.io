@@ -42,27 +42,26 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "City and County of Honolulu",
+      "position": "Recreation Assistant II",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022-05-25",
+      "endDate": "2022-07-29",
+      "summary": "Work with a child with disabilities and help the child participate in summer fun activities",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Help the child be an engaging member in the summer fun they are participating in",
+        "Be a role model to the child and to the other children in the summer fun group"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "CVS/Longs Drugs Hawaii Kai",
+      "position": "Cashier",
+      "website": ""
+      "startDate": "2021-06",
+      "endDate": "2021-09",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        ""
       ]
     }
   ],
