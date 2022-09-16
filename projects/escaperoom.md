@@ -12,8 +12,8 @@ summary: "I made a very basic project with HTML and CSS to demonstrate the basic
 ---
 
 <div class="text-center p-4">
-  <img width="490px" src="https://user-images.githubusercontent.com/56208115/190551426-24897d2e-7d00-482d-9f7c-74eb55fb33d8.png" >
-  <img width="490px" src="https://user-images.githubusercontent.com/56208115/190551884-ce2b53ff-73be-4262-81e7-124b028b0061.png" class="img-thumbnail" >
+  <img width="495px" src="https://user-images.githubusercontent.com/56208115/190551426-24897d2e-7d00-482d-9f7c-74eb55fb33d8.png" >
+  <img width="495px" src="https://user-images.githubusercontent.com/56208115/190551884-ce2b53ff-73be-4262-81e7-124b028b0061.png" class="img-thumbnail" >
   </div>
 
 
