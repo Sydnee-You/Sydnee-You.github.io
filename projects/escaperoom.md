@@ -12,11 +12,9 @@ summary: "I made a very basic project with HTML and CSS to demonstrate the basic
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="https://user-images.githubusercontent.com/56208115/190551426-24897d2e-7d00-482d-9f7c-74eb55fb33d8.png" >
-  <img width="200px" src="https://user-images.githubusercontent.com/56208115/190551884-ce2b53ff-73be-4262-81e7-124b028b0061.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
-
+  <img width="450px" src="https://user-images.githubusercontent.com/56208115/190551426-24897d2e-7d00-482d-9f7c-74eb55fb33d8.png" >
+  <img width="450px" src="https://user-images.githubusercontent.com/56208115/190551884-ce2b53ff-73be-4262-81e7-124b028b0061.png" class="img-thumbnail" >
+  </div>
 
 
 I have been a member of the ICSpark student organization for around a couple years now, and here is one of the solutions I made for one of ICSpark's curriculum projects. What is ICSpark?  ICSpark is a university student-lead organization where student volunteers mentor middle and high school students to teach them basic web development with HTML, CSS, and Javascript.  Every week during this Spring semester program, we have students complete projects based on what they're currently learning.  Our mentor resources had project solutions for us mentors to refer back to in order to better help the students complete their projects for every project except one--"the escape" room project.  My task was to make a solution for this project for the mentors to refer back to since this was the only project missing a solution. 
