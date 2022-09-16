@@ -17,11 +17,10 @@ summary: "I made a very basic project with HTML and CSS to demonstrate the basic
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-I have been a member of the ICSpark student organization for around a couple years now, and here is one of the solutions I made for one of ICSpark's curriculum projects. What is ICSpark?  ICSpark is a university student-lead organization where student volunteers mentor middle and high school students to teach them basic web development with HTML, CSS, and Javascript.  Every week during this Spring semester program, we have students complete projects based on what they're currently learning.  Our mentor resources had project solutions for us mentors to refer back to in order to better help the students complete their projects for every project except one--the escape room project.  My task was to make a solution for this project for the mentors to refer back to since this was the only project missing a solution. 
+I have been a member of the ICSpark student organization for around a couple years now, and here is one of the solutions I made for one of ICSpark's curriculum projects. What is ICSpark?  ICSpark is a university student-lead organization where student volunteers mentor middle and high school students to teach them basic web development with HTML, CSS, and Javascript.  Every week during this Spring semester program, we have students complete projects based on what they're currently learning.  Our mentor resources had project solutions for us mentors to refer back to in order to better help the students complete their projects for every project except one--"the escape" room project.  My task was to make a solution for this project for the mentors to refer back to since this was the only project missing a solution. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Of all the computer science-related projects I have worked on, the "escape room" project was probably one of the most enjoyable ones even if it was very simple.  One aspect of "escape room" I liked in particular was that there was a little story to the project, even if it was very short.  The instructions state, "You were at the zoo and accidentally let the animals loose! You're on the run and come across a brick wall with three suspicious doors! Which door will you choose? Where will it lead?!"  Using file paths, the project-goer must create the doors that lead to different worlds, like the dragon's lair or the future.  One must use the href attribute in html to specify paths to other html files that represent the different worlds (for example, the-future.html represents the future world). One must also access the gifs using file paths as shown below.  Here, I had to use a file path to access the future.gif in order to make the appropriate gif appear when one clicks on the door to the future world.
 
-Here is some code that illustrates how we read values from the line sensors:
 
 ```css
 #container{
@@ -38,6 +37,7 @@ Here is some code that illustrates how we read values from the line sensors:
   background-color:white;
 }
 ```
+
 
 You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
 
