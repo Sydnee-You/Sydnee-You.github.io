@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/icspark_p2_escape_doorWall_square.png
-title: "Project Escape Room!"
+title: "Using the Powers of File Paths to Create Doors to New Universes! Open the Doors if You Dare.."
 date: 2022-02-12
 published: true
 labels:
