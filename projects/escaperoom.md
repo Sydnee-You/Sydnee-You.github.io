@@ -12,7 +12,7 @@ summary: "I made a very basic project with HTML and CSS to demonstrate the basic
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="https://user-images.githubusercontent.com/56208115/190551426-24897d2e-7d00-482d-9f7c-74eb55fb33d8.png" >
+  <img width="400px" src="https://user-images.githubusercontent.com/56208115/190551426-24897d2e-7d00-482d-9f7c-74eb55fb33d8.png" >
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
