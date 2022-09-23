@@ -22,6 +22,6 @@ labels:
 </p>
 
 <h2>My Experience with ESLint</h2>
-<pI have been working with ESLint, a tool to help one conform to coding standards, for around a week now in my Javascript journey.  So far, while it can be mildly annoying to go back and fix things that are not technically errors just to conform to standards, I know that in the long run, this is helping me have practice coding readable code.  I also appreciate how the feedback is immediate.  Overall, my impressions of ESLint are mostly positive, and I am glad to have been introduced to such a helpful coding standards tool early on in my career.   
+<p> I have been working with ESLint, a tool to help one conform to coding standards, for around a week now in my Javascript journey.  So far, while it can be mildly annoying to go back and fix things that are not technically errors just to conform to standards, I know that in the long run, this is helping me have practice coding readable code.  I also appreciate how the feedback is immediate.  Overall, my impressions of ESLint are mostly positive, and I am glad to have been introduced to such a helpful coding standards tool early on in my career.   
 </p>
 
