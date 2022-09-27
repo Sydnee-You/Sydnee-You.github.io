@@ -5,39 +5,39 @@
     "picture": "https://github.com/Sydnee-You.png",
     "email": "sydneey@hawaii.edu",
     "phone": "808-445-4483",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://Sydnee-You.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96824", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Sydnee-You", "url": "http://github.com/Sydnee-You" },
+      { "network": "linkedin", "username": "Sydnee You", "url": "http://linkedin.com/in/sydnee-you-9897ba239/" }
+
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Game development" },
+    { "name": "front-end web development" },
+    { "name": "World building" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Ubuntu", "GitHub"]
+    },
+    {
+      "name": "Lean startup methodology"
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-23",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,69 +45,75 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "City and County of Honolulu",
+      "position": "Recreation Assistant II",
+      "website": "https://www.honolulu.gov/cms-dpr-menu/site-dpr-sitearticles/1706-summer-student-employment-program.html",
+      "startDate": "2022-05-25",
+      "endDate": "2022-07-29",
+      "summary": "Work with a child with disabilities and help the child participate in summer fun activities",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Help the child be an engaging member in the summer fun they are participating in",
+        "Be a role model to the child and to the other children in the summer fun group"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "CVS/Longs Drugs Hawaii Kai",
+      "position": "Cashier",
+      "website": "https://www.cvs.com/",
+      "startDate": "2021-06",
+      "endDate": "2021-09",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Ring up products, both non-alcohol and alcohol",
+        "Customer service",
+        "Answer customer phone questions"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Secretary, mentor",
+      "startDate": "2019-09-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Helped mentor middle and high school students in web development. Aided with ICSpark administrative duties.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Help middle and high school students complete basic web development projects involving HTML, CSS, and Javascript",
+        "Attend weekly administrative meetings to discuss how to improve the ICSpark experience based on student feedback and future plans and curriculum for the organization"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "2019, 2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to any undergraduate, full-time student who earns a semester GPA of at least 3.5 and does not receive an I, F, NC, or W for that semester."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2019 to 2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to any incoming freshman. $2000 per year for four years scholarship for students seeking a first-time degree."
+    },
+    {
+      "title": "Certificate of Appreciation",
+      "date": "2019",
+      "awarder": "Hawaii Rotary Youth Foundation",
+      "summary": "Scholarships awarded to graduating high school seniors who are going to attend a four-year college or university as full-time students. Students must submit an application and undergo a long interview with a panel of several judges.  Winners receive $5000 while honorable mentions recieve a Certificate of Appreciation and $600"
+    },
+    {
+      "title": "Outstanding Student in Intro. to Programming Award",
+      "date": "2019",
+      "awarder": "Hawaii Baptist Academy",
+      "summary": "Awarded to the top student(s) in the Introduction to Programming course."
+    },
+    {
+      "title": "Outstanding Student in Physics Award",
+      "date": "2017 to 2018",
+      "awarder": "Hawaii Baptist Academy",
+      "summary": "Awarded to the top student(s) in the high school physics course."
     }
   ],
   "references": [
