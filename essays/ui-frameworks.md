@@ -7,22 +7,24 @@ date: 2022-10-06
 published: true
 labels:
   - UI
-  -Frameworks
-  -Bootstrap
+  - Frameworks
+  - Bootstrap
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg" alt="pic">
+
+outline
+ui frameworks difficult
+what are ui frameworks
+my experience (bootstrap 5)
+why it is still worth it.
 
 
 
+## UI Frameworks: Difficult?
+UI Frameworks, which stand for "User interface frameworks" are frameworks that assist in helping a developer create more advanced and professional-looking websites. While they are a great tool to use, they are considered by many to be difficult to learn how to use. If they are not even necessary to use to create a professional-looking project in the first place, is their difficult-to-learn tools even worth learning?  
 
-## In the context of programming
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
 
 ## In the context of engineering
 
