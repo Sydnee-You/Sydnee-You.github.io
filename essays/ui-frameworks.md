@@ -23,13 +23,13 @@ UI Frameworks, which stand for "User interface frameworks" are frameworks that a
 
 After going over the basics of web development with pure HTML and CSS, I have finally taken on the challenge of learning my first UI Framework: Bootstrap 5.  As expected, I often found it confusing to work with.  The documentation was often hard to follow, and I had to do a lot of trial and error especially in the very beginning because I was not entirely sure how it would make my web page look.  And yet at the same time, it has been only a week and I have already been able to make more professional-looking websites than I had a mere two weeks ago.  I am slowly getting the hang of it, and even while I am still in the beginning stages of learning a new UI Framework, I can tell that it has still made it easier to make professional-looking websites than to go without it.  I have also been able to use a lot less CSS in the process, making my CSS code easier to read and follow and making it more convenient as most of the code was on my HTML page instead.
 <br>
-<br>
+
 <img width="500px" class="rounded float-start pe-4" src="../img/history_browser_no_ui.png" alt="pic">
  **Without UI Frameworks**
-<br>
-<br>
-<br>
-<br>
+<pre>
+
+
+</pre>
 <img width="500px" class="rounded float-start pe-4" src="../img/history_browsers_ui.png" alt="pic">
 **With UI Frameworks**
 
