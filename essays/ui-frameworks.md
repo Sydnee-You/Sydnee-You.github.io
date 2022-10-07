@@ -13,39 +13,28 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg" alt="pic">
 
-outline
-ui frameworks difficult
-what are ui frameworks
-my experience (bootstrap 5)
-why it is still worth it.
-
 
 
 ## UI Frameworks: Difficult?
 UI Frameworks, which stand for "User interface frameworks" are frameworks that assist in helping a developer create more advanced and professional-looking websites. While they are a great tool to use, they are considered by many to be difficult to learn how to use. If they are not even necessary to use to create a professional-looking project in the first place, is their difficult-to-learn tools even worth learning?  
 
 
+## My Experience So Far Learning Bootstrap 5
 
-## In the context of engineering
+After going over the basics of web development with pure HTML and CSS, I have finally taken on the challenge of learning my first UI Framework: Bootstrap 5.  As expected, I often found it confusing to work with.  The documentation was often hard to follow, and I had to do a lot of trial and error especially in the very beginning because I was not entirely sure how it would make my web page look.  And yet at the same time, it has been only a week and I have already been able to make more professional-looking websites than I had a mere two weeks ago.  I am slowly getting the hang of it, and even while I am still in the beginning stages of learning a new UI Framework, I can tell that it has still made it easier to make professional-looking websites than to go without it.  I have also been able to use a lot less CSS in the process, making my CSS code easier to read and follow and making it more convenient as most of the code was on my HTML page instead.
+<br>
+<br>
+<img width="500px" class="rounded float-start pe-4" src="../img/history_browser_no_ui.png" alt="pic">
+ **Without UI Frameworks**
+<br>
+<br>
+<img width="500px" class="rounded float-start pe-4" src="../img/history_browsers_ui.png" alt="pic">
+**With UI Frameworks**
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+Above is a very small snippet of an example of how (part of) a webpage can look better with UI design.  I actually practiced making both versions myself.  The difference here is the navigation bar.  The first image does not use UI Frameworks and has just some links spread out across the page as a "navigation bar."  Not very appealing-looking is it?  The second picture uses UI Framework (Bootstrap specifically), and while it looks a bit on the simpler side, its dark background and white text at the top of the page instead of in the middle of the page looks much more appealing and professional.  While it is possible to do this without UI Framework, it would be harder to pull off.
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
 
-## In the context of relationships
+## Conclusion: Worth It After All?
 
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+From my little experience with UI Frameworks, I can say with confidence that despite the difficulty of learning to use it, I still overall found that it was worth the time and effort to learn to use it. In a mere one week of learning how to use my first UI Framework, I was already able to practice recreating actual professional websites from well-establish companies like Whole Foods or Island Snow.  I would have taken significantly longer to try and recreate those websites with pure CSS and HTML, and maybe I would have given up eventually because of how hard it is to go without using frameworks. So to answer the question proposed at the beginning of this essay of if it is worth it to learn to use a UI Framework, I would say absolutely yes.  Computer science as a whole has a very steep learning curve, but I have never seen a single person state that it is not worth it to learn despite its difficulty.  UI Frameworks in particular are the same way--difficult but worth it.
