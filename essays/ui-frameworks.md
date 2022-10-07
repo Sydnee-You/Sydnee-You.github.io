@@ -32,7 +32,7 @@ After going over the basics of web development with pure HTML and CSS, I have fi
 </pre>
 <img width="500px" class="rounded float-start pe-4" src="../img/history_browsers_ui.png" alt="pic">
 **With UI Frameworks**
-
+<br>
 Above is a very small snippet of an example of how (part of) a webpage can look better with UI design.  I actually practiced making both versions myself.  The difference here is the navigation bar.  The first image does not use UI Frameworks and has just some links spread out across the page as a "navigation bar."  Not very appealing-looking is it?  The second picture uses UI Framework (Bootstrap specifically), and while it looks a bit on the simpler side, its dark background and white text at the top of the page instead of in the middle of the page looks much more appealing and professional.  While it is possible to do this without UI Framework, it would be harder to pull off.
 
 
