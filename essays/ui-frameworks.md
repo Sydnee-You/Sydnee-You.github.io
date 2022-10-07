@@ -28,6 +28,8 @@ After going over the basics of web development with pure HTML and CSS, I have fi
  **Without UI Frameworks**
 <br>
 <br>
+<br>
+<br>
 <img width="500px" class="rounded float-start pe-4" src="../img/history_browsers_ui.png" alt="pic">
 **With UI Frameworks**
 
