@@ -14,7 +14,7 @@ labels:
  <h2> Design is Important </h2>
 
 <br>
-<img width="200px" class="rounded float-start pe-4" src="../img/butterflyroof.png" alt="pic">
+<img width="300px" class="rounded float-start pe-4" src="../img/butterflyroof.png" alt="pic">
 <br>
 <br>
   When one thinks of design, they may jump to the idea of fashion and how to make a particular design of fabric appealing to consumers.  While fashion is definitely important in its own way, design is used for so much more than just that.  Throughout human history, design patterns have been crucial to our advancement as a society.  Design patterns have made life more convenient for us, and allowed us to build off previous design patterns and ideas.  One of the biggest examples of this is the literal invention of the wheel itself in ancient Sumer.  Why is the wheel designed to be round?  It is because round wheels are the best and most useful shape to use on barrels and vehicles to transport objects and people.  Building off the design of the wheel, we’ve created barrels, chariots, bicycles, and eventually cars.  Another example of an important design pattern (though not as prominent as the wheel) is rooftop designs (shown above).  As one of my university professors pointed out, the “butterfly” roof (between the “hip” and the “flat” roof in the image above) would not be so great for places known to have snowy weather as snow could easily pile up on the roof and be hard to scrape off. 
