@@ -25,6 +25,7 @@ One of the challenges for this hackathon was to gamify the data. CyberWorld’s
 navigation would feature a character that “walks” around the globe to view the data to make it
 more engaging and interactive.
 <br>
+<br>
 We ended up becoming finalists in the student track of the hackathon and presented our
 solution via slides to a panel of judges. While we didn’t win, it was still a great experience for
 me and my group to critically think about ways to solve a real world problem.
