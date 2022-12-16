@@ -14,6 +14,8 @@ summary: "My team came up with an idea to manage cybersecurity incidents and inf
 <div class="text-center p-4">
   <img width="450px" src="../img/cyberworld_title_page.png" >
 </div>
+<br>
+<br>
 
 I and a small group of other students participated in the 2022 Reality Bytes Hackathon where we came up with possible solutions to better visualize and monitor cybersecurity events. Our proposal was a 3D interactive map called “CyberWorld”, that would feature
 cyberthreats, the type of attack, and its severity for all countries across the globe. We also
@@ -26,7 +28,7 @@ more engaging and interactive.
 We ended up becoming finalists in the student track of the hackathon and presented our
 solution via slides to a panel of judges. While we didn’t win, it was still a great experience for
 me and my group to critically think about ways to solve a real world problem.
-
+<br>
 <img width = "600px" src="../img/hacks_journey_cyberworld.png">
 <br>
 
