@@ -32,6 +32,6 @@ This is one of the rare times in which a non-ethics course I have taken even men
 
 
 
-## To an New Journey
+## To a New Journey
 
 This class itself has been a journey.  I came out of it knowing so much more about both the front end, back end, all the things I’ve listed above, and then some.  While this class may be over, my journey into learning software engineering is only just getting started.  I am on a new journey now to make absolutely sure that I apply what I learned in this class to future projects and eventually, future jobs that I hope to obtain.
