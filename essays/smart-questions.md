@@ -4,7 +4,7 @@ type: essay
 title: "Smart Questions Require Effort!"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-08
-published: true
+published: false
 labels:
   - Questions
   - Answers
