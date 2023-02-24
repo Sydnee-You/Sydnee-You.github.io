@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Sydnee You",
+    "label": "Student",
+    "picture": "https://github.com/Sydnee-You.png",
+    "email": "sydneey@hawaii.edu",
+    "phone": "808-445-4483",
+    "website": "https://Sydnee-You.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96824", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "Sydnee-You", "url": "http://github.com/Sydnee-You" },
+      { "network": "linkedin", "username": "Sydnee You", "url": "http://linkedin.com/in/sydnee-you-9897ba239/" }
+
+    ]
+  },
+  "interests": [
+    { "name": "Game development" },
+    { "name": "front-end web development" },
+    { "name": "World building" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Ubuntu", "GitHub"]
+    },
+    {
+      "name": "Lean startup methodology"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-23",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "City and County of Honolulu",
+      "position": "Recreation Assistant II",
+      "website": "https://www.honolulu.gov/cms-dpr-menu/site-dpr-sitearticles/1706-summer-student-employment-program.html",
+      "startDate": "2022-05-25",
+      "endDate": "2022-07-29",
+      "summary": "Work with a child with disabilities and help the child participate in summer fun activities",
+      "highlights": [
+        "Help the child be an engaging member in the summer fun they are participating in",
+        "Be a role model to the child and to the other children in the summer fun group"
+      ]
+    },
+    {
+      "company": "CVS/Longs Drugs Hawaii Kai",
+      "position": "Cashier",
+      "website": "https://www.cvs.com/",
+      "startDate": "2021-06",
+      "endDate": "2021-09",
+      "summary": "",
+      "highlights": [
+        "Ring up products, both non-alcohol and alcohol",
+        "Customer service",
+        "Answer customer phone questions"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ICSpark",
+      "website": "https://icspark.github.io/",
+      "position": "Secretary, mentor",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "summary": "Helped mentor middle and high school students in web development. Aided with ICSpark administrative duties.",
+      "highlights": [
+        "Help middle and high school students complete basic web development projects involving HTML, CSS, and Javascript",
+        "Attend weekly administrative meetings to discuss how to improve the ICSpark experience based on student feedback and future plans and curriculum for the organization"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2019, 2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to any undergraduate, full-time student who earns a semester GPA of at least 3.5 and does not receive an I, F, NC, or W for that semester."
+    },
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2019 to 2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to any incoming freshman. $2000 per year for four years scholarship for students seeking a first-time degree."
+    },
+    {
+      "title": "Certificate of Appreciation",
+      "date": "2019",
+      "awarder": "Hawaii Rotary Youth Foundation",
+      "summary": "Scholarships awarded to graduating high school seniors who are going to attend a four-year college or university as full-time students. Students must submit an application and undergo a long interview with a panel of several judges.  Winners receive $5000 while honorable mentions recieve a Certificate of Appreciation and $600"
+    },
+    {
+      "title": "Outstanding Student in Intro. to Programming Award",
+      "date": "2019",
+      "awarder": "Hawaii Baptist Academy",
+      "summary": "Awarded to the top student(s) in the Introduction to Programming course."
+    },
+    {
+      "title": "Outstanding Student in Physics Award",
+      "date": "2017 to 2018",
+      "awarder": "Hawaii Baptist Academy",
+      "summary": "Awarded to the top student(s) in the high school physics course."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
