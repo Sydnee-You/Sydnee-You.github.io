@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 <img src="https://tse2.mm.bing.net/th?id=OIP.PaDlLHpbz1vol8PwDy6_DwHaHa&pid=Api&P=0">
-<h2>Why am I Learning Javascript?</h2>
+<h2>Why am I Learning JavaScript?</h2>
 <p>  My software engineering class has just begun a week ago, and with it comes learning a new coding language: Javascript.  In this class, we will be doing intense  every-day practice problems (called WODs) to prepare for future tech interviews and other technology-related jobs and internships any of us hope to pursue.  I have very little experience in Javascript at the moment, but I am excited to learn more and more about what the language has to offer and all the interesting and creative ways one can use the language for.  Javascript in particular, moreso than perhaps most of the languages I have learned in previous classes, is particulary important to my future aspirations; I am heavily considering working as a front-end web developer after I graduate. Learning Javascript, alongside HTML and CSS, is one of the most basic skills required for front-end web development, and I am grateful to have an opportunity to learn it in a required class alongside so many other passionate students.   </p>
 <br>
 <h2>My Previous Javascript Experience</h2>
